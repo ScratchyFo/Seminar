@@ -1,0 +1,5 @@
+O:\Learn\GB\Csharp\Examle 5\obj\Debug\net6.0\Examle 5.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Examle 5\obj\Debug\net6.0\Examle 5.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Examle 5\obj\Debug\net6.0\Examle 5.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Examle 5\obj\Debug\net6.0\Examle 5.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Examle 5\obj\Debug\net6.0\Examle 5.csproj.CoreCompileInputs.cache
