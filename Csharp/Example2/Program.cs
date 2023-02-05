@@ -4,6 +4,7 @@
 //a = 9, b = -3 -> да 
 //a = -3 b = 9 -> нет
 // See https://aka.ms/new-console-template for more information
+Console.Clear();
 Console.WriteLine("Введите число a");
 
 

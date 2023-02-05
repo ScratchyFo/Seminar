@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Example 3\bin\Debug\net6.0\Example 3.exe
+O:\Learn\GB\Csharp\Example 3\bin\Debug\net6.0\Example 3.deps.json
+O:\Learn\GB\Csharp\Example 3\bin\Debug\net6.0\Example 3.runtimeconfig.json
+O:\Learn\GB\Csharp\Example 3\bin\Debug\net6.0\Example 3.dll
+O:\Learn\GB\Csharp\Example 3\bin\Debug\net6.0\Example 3.pdb
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.dll
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\refint\Example 3.dll
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.pdb
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\Example 3.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Example 3\obj\Debug\net6.0\ref\Example 3.dll
