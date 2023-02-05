@@ -4,4 +4,6 @@
 // 918 -> 8
 Console.Clear();
 Console.WriteLine("Введите трехзначное число");
-int a = int.Parse(Console.Readline);
+int n = int.Parse(Console.ReadLine()!);
+
+Console.WriteLine(n % 10);

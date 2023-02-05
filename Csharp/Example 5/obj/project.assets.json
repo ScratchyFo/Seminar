@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\Learn\\GB\\Csharp\\Examle 5\\Examle 5.csproj",
+      "projectUniqueName": "O:\\Learn\\GB\\Csharp\\Example 5\\Examle 5.csproj",
       "projectName": "Examle 5",
-      "projectPath": "O:\\Learn\\GB\\Csharp\\Examle 5\\Examle 5.csproj",
+      "projectPath": "O:\\Learn\\GB\\Csharp\\Example 5\\Examle 5.csproj",
       "packagesPath": "C:\\Users\\KOSHARIK\\.nuget\\packages\\",
-      "outputPath": "O:\\Learn\\GB\\Csharp\\Examle 5\\obj\\",
+      "outputPath": "O:\\Learn\\GB\\Csharp\\Example 5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KOSHARIK\\AppData\\Roaming\\NuGet\\NuGet.Config"

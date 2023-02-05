@@ -6,7 +6,6 @@
 
 Console.Clear();
 Console.WriteLine("Введите число N");
-//int N = int.Parse(Console.Readline());
 int N = int.Parse(Console.ReadLine());
 int k = -N;
 
