@@ -8,7 +8,7 @@ Console.WriteLine("Введите номер дня недели");
 int a = int.Parse(Console.ReadLine());
 
 
-if (a == 0  a > 7) {
+if (a == 0 | a > 7) {
     Console.WriteLine("Такое число не является днем недели");
 } else if (a == 1) {
     Console.WriteLine("Понедельник");
