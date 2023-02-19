@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Example 9\bin\Debug\net6.0\Example 9.exe
+O:\Learn\GB\Csharp\Example 9\bin\Debug\net6.0\Example 9.deps.json
+O:\Learn\GB\Csharp\Example 9\bin\Debug\net6.0\Example 9.runtimeconfig.json
+O:\Learn\GB\Csharp\Example 9\bin\Debug\net6.0\Example 9.dll
+O:\Learn\GB\Csharp\Example 9\bin\Debug\net6.0\Example 9.pdb
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.dll
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\refint\Example 9.dll
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.pdb
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\Example 9.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Example 9\obj\Debug\net6.0\ref\Example 9.dll
