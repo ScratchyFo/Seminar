@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Example18\bin\Debug\net6.0\Example18.exe
+O:\Learn\GB\Csharp\Example18\bin\Debug\net6.0\Example18.deps.json
+O:\Learn\GB\Csharp\Example18\bin\Debug\net6.0\Example18.runtimeconfig.json
+O:\Learn\GB\Csharp\Example18\bin\Debug\net6.0\Example18.dll
+O:\Learn\GB\Csharp\Example18\bin\Debug\net6.0\Example18.pdb
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.dll
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\refint\Example18.dll
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.pdb
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\Example18.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Example18\obj\Debug\net6.0\ref\Example18.dll

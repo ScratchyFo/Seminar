@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Example 22\bin\Debug\net6.0\Example 22.exe
+O:\Learn\GB\Csharp\Example 22\bin\Debug\net6.0\Example 22.deps.json
+O:\Learn\GB\Csharp\Example 22\bin\Debug\net6.0\Example 22.runtimeconfig.json
+O:\Learn\GB\Csharp\Example 22\bin\Debug\net6.0\Example 22.dll
+O:\Learn\GB\Csharp\Example 22\bin\Debug\net6.0\Example 22.pdb
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.dll
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\refint\Example 22.dll
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.pdb
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\Example 22.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Example 22\obj\Debug\net6.0\ref\Example 22.dll
