@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Homework\29\bin\Debug\net6.0\29.exe
+O:\Learn\GB\Csharp\Homework\29\bin\Debug\net6.0\29.deps.json
+O:\Learn\GB\Csharp\Homework\29\bin\Debug\net6.0\29.runtimeconfig.json
+O:\Learn\GB\Csharp\Homework\29\bin\Debug\net6.0\29.dll
+O:\Learn\GB\Csharp\Homework\29\bin\Debug\net6.0\29.pdb
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.dll
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\refint\29.dll
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.pdb
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\29.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Homework\29\obj\Debug\net6.0\ref\29.dll
