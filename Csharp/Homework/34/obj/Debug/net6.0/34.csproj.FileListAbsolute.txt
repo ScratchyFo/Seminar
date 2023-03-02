@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Homework\34\bin\Debug\net6.0\34.exe
+O:\Learn\GB\Csharp\Homework\34\bin\Debug\net6.0\34.deps.json
+O:\Learn\GB\Csharp\Homework\34\bin\Debug\net6.0\34.runtimeconfig.json
+O:\Learn\GB\Csharp\Homework\34\bin\Debug\net6.0\34.dll
+O:\Learn\GB\Csharp\Homework\34\bin\Debug\net6.0\34.pdb
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.dll
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\refint\34.dll
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.pdb
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\34.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Homework\34\obj\Debug\net6.0\ref\34.dll
