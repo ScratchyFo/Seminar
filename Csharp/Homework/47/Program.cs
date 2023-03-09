@@ -37,5 +37,5 @@ int m = int.Parse(Console.ReadLine()!);
 Console.Write("Размер массива n:");
 int n = int.Parse(Console.ReadLine()!);
 
-double[,] myArray2D = getArray2D(m, n, -10, 10);
+double[,] myArray2D = getArray2D(m, n, -30, 20);
 printArray2D(myArray2D);

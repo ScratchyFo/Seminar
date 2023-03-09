@@ -48,7 +48,7 @@ string findArray2D(int m, int n, int[,] inArray2D)
 
 Console.Clear();
 
-int[,] inArray2D = getArray2D(3, 4, 0, 10);
+int[,] inArray2D = getArray2D(5, 5, 0, 20);
 
 printArray2D(inArray2D);
 Console.Write("Введите позицию через пробел: ");
