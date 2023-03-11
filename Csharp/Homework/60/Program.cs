@@ -8,7 +8,7 @@
 int[,,] create3DArr()
 {
     int[,,] array = new int[2, 2, 2];
-    int[] values = new int[89];
+    int[] values = new int[100];
     int num = 10;
     for (int i = 0; i < values.Length; i++)
     {
