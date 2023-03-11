@@ -1,0 +1,15 @@
+O:\Learn\GB\Csharp\Homework\60\bin\Debug\net6.0\60.exe
+O:\Learn\GB\Csharp\Homework\60\bin\Debug\net6.0\60.deps.json
+O:\Learn\GB\Csharp\Homework\60\bin\Debug\net6.0\60.runtimeconfig.json
+O:\Learn\GB\Csharp\Homework\60\bin\Debug\net6.0\60.dll
+O:\Learn\GB\Csharp\Homework\60\bin\Debug\net6.0\60.pdb
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.csproj.AssemblyReference.cache
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.AssemblyInfoInputs.cache
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.AssemblyInfo.cs
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.csproj.CoreCompileInputs.cache
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.dll
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\refint\60.dll
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.pdb
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\60.genruntimeconfig.cache
+O:\Learn\GB\Csharp\Homework\60\obj\Debug\net6.0\ref\60.dll
